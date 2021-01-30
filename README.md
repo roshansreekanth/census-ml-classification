@@ -7,7 +7,7 @@ Applying different ML classification algorithms using scikit-learn
 1. scikit-learn
 1. numpy
 1. pandas
-1, matplotlip
+1. matplotlib
 
 
 Comparision of different classification algorithms:
